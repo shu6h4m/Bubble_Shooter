@@ -1,5 +1,5 @@
 # Bubble_Shooter
-# An Awesome Web-Game designed in JvavaScript &amp; NodeJS  ♥
+# An Awesome WebGame designed in JS &amp; NodeJS  ♥
 
 <div align="center">
 
