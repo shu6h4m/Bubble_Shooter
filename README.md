@@ -1,12 +1,10 @@
-<center>
 
+</br>
 
-# Bubble_Shooter
 # An Awesome WebGame designed in JS &amp; NodeJS  ♥
 
-  </center>
-  
-  
+</br>
+
 <div align="center">
 
 
