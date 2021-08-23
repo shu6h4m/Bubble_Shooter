@@ -1,7 +1,7 @@
 
 </br>
 
-# An Awesome WebGame designed in JS &amp; NodeJS  ☺
+# An Awesome WebGame designed in JS &amp; NodeJS  ☺ 
 
 </br>
 
